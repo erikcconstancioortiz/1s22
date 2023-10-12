@@ -1,0 +1,9 @@
+class p2_1s22{
+	public static void main(String[] args) {
+	    System.out.println("Constancio ortiz erikc");
+	    System.out.println("18 años");
+	    System.out.println("erikcconstancio@gmail.com");
+	    System.out.println("me gusta demaciado el voli y el gym y el dinero");
+	    System.out.println("mi color favorito es el rojo y negro ");
+	}
+}
